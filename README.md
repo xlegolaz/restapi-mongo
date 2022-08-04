@@ -12,4 +12,4 @@
  
 **Dev Dependencies**   (--save-dev)
   - typescript
-  - types/express
+  - @types/express
